@@ -1,0 +1,95 @@
+{
+  "users": {
+    "6282142439989@s.whatsapp.net": {
+      "exp": 72,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "꧁༺ANDE☬WATER༻꧂ツ",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "6282332888158@s.whatsapp.net": {
+      "exp": 0,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Yo",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    }
+  },
+  "chats": {
+    "6282142439989@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": false,
+      "captcha": false,
+      "nsfw": false,
+      "expired": 0,
+      "rules": ""
+    }
+  },
+  "stats": {
+    "main-menu.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1709461727861,
+      "lastSuccess": 1709461727861
+    },
+    "bebot-bebot.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1709461943549,
+      "lastSuccess": 1709461943549
+    }
+  },
+  "msgs": {},
+  "sticker": {},
+  "settings": {
+    "6282332888158@s.whatsapp.net": {
+      "self": false,
+      "autoread": true,
+      "restrict": false,
+      "pconly": false,
+      "gconly": false,
+      "status": 0
+    }
+  }
+}
